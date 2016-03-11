@@ -12,5 +12,5 @@ Made just for fun. [Play it here!]
 That screenshot is fake, by the way. I never reached 2048 :smile:
 
 ## License
-2048 is licensed under the [MIT license.]
+2048 is licensed under the [MIT license.](https://github.com/DarianDev/2048/blob/master/LICENSE.txt)
 
